@@ -1,2 +1,1 @@
-# auth0-integration
-A repository for a 2-project solution with Auth0 integration
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
